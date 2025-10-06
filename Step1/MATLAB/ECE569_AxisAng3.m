@@ -10,6 +10,14 @@ function [w,theta] = ECE569_AxisAng3(w_theta)
 % If so, set theta=0 and set w=zeros(size(w_theta))
 
 
-% theta = ...
-% w = ...
+   if ismembertol(w_theta, 0)
+       theta = 0;
+       w=zeros(size(w_theta));
+   else
+       theta = norm(w_theta);
+       w = w_theta / theta;
+       
+   end
+
+
 end
