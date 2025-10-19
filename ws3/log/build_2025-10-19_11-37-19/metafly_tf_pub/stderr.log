@@ -1,0 +1,3 @@
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+error: can't copy '/home/me597/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/resource/metafly_tf_pub': doesn't exist or not a regular file

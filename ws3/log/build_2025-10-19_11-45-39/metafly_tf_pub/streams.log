@@ -1,0 +1,22 @@
+[0.760s] Invoking command in '/home/me597/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub': PYTHONPATH=/home/me597/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/me597/ece569-fall2025/Lab3/ws3/install/metafly_tf_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/me597/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/build --no-deps symlink_data
+[1.061s] running develop
+[1.061s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.062s]   warnings.warn(
+[1.262s] running egg_info
+[1.262s] writing metafly_tf_pub.egg-info/PKG-INFO
+[1.262s] writing dependency_links to metafly_tf_pub.egg-info/dependency_links.txt
+[1.262s] writing entry points to metafly_tf_pub.egg-info/entry_points.txt
+[1.262s] writing requirements to metafly_tf_pub.egg-info/requires.txt
+[1.262s] writing top-level names to metafly_tf_pub.egg-info/top_level.txt
+[1.264s] reading manifest file 'metafly_tf_pub.egg-info/SOURCES.txt'
+[1.264s] writing manifest file 'metafly_tf_pub.egg-info/SOURCES.txt'
+[1.266s] running build_ext
+[1.267s] Creating /home/me597/ece569-fall2025/Lab3/ws3/install/metafly_tf_pub/lib/python3.10/site-packages/metafly-tf-pub.egg-link (link to .)
+[1.267s] Installing metafly_tf_pub script to /home/me597/ece569-fall2025/Lab3/ws3/install/metafly_tf_pub/bin
+[1.268s] 
+[1.268s] Installed /home/me597/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub
+[1.268s] running symlink_data
+[1.268s] symbolically linking /home/me597/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/resource/metafly_tf_pub -> /home/me597/ece569-fall2025/Lab3/ws3/install/metafly_tf_pub/share/ament_index/resource_index/packages
+[1.268s] creating /home/me597/ece569-fall2025/Lab3/ws3/install/metafly_tf_pub/share/metafly_tf_pub
+[1.268s] error: can't copy '/home/me597/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/package.xml': doesn't exist or not a regular file
+[1.298s] Invoked command in '/home/me597/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub' returned '1': PYTHONPATH=/home/me597/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/me597/ece569-fall2025/Lab3/ws3/install/metafly_tf_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/me597/ece569-fall2025/Lab3/ws3/build/metafly_tf_pub/build --no-deps symlink_data

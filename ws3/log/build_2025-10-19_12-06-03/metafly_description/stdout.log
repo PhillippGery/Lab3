@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing metafly_description.egg-info/PKG-INFO
+writing dependency_links to metafly_description.egg-info/dependency_links.txt
+writing entry points to metafly_description.egg-info/entry_points.txt
+writing requirements to metafly_description.egg-info/requires.txt
+writing top-level names to metafly_description.egg-info/top_level.txt
+reading manifest file 'metafly_description.egg-info/SOURCES.txt'
+writing manifest file 'metafly_description.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/me597/ece569-fall2025/Lab3/ws3/install/metafly_description/lib/python3.10/site-packages/metafly-description.egg-link (link to .)
+Installing metafly_tf_pub script to /home/me597/ece569-fall2025/Lab3/ws3/install/metafly_description/lib/metafly_description
+
+Installed /home/me597/ece569-fall2025/Lab3/ws3/build/metafly_description
+running symlink_data
