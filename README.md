@@ -10,6 +10,6 @@ You can work on Step 1 or Step 2 independently. Good luck! 🤖
 
 #### You can test that you have SSH keys set up correctly by trying to modify these values from wherever you cloned this repository
 
-Your Name: `your name`
+Your Name: `Phillipp Gery`
 
-Your Email: `your email@purdue.edu`
+Your Email: `pgery@purdue.edu`
