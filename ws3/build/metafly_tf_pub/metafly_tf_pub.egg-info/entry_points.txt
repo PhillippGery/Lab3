@@ -1,3 +1,0 @@
-[console_scripts]
-metafly_tf_pub = metafly_tf_pub.metafly_tf_pub:main
-
